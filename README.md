@@ -1,63 +1,21 @@
-🚀 Magento Developer | E-commerce Specialist | 2 Years of Experience 🛒
-
-🔹 About Me:
-Passionate and dedicated Magento Developer with 2 years of hands-on experience in crafting robust, scalable, and customized e-commerce solutions. Proficient in utilizing Magento's powerful features to create seamless online shopping experiences for clients across diverse industries. Committed to staying updated with the latest trends and best practices in e-commerce development to deliver cutting-edge solutions.
-
-🔹 Skills:
-
-✅ Magento Development
-
-✅ E-commerce Website Development
-
-✅ Custom Module Development
-
-✅ Version Control (Git)
-
-✅ PWA Development
-
-✅ GraphQL Development
-
-✅ Theme Customization
-
-✅ Payment Gateway Integration
-
-✅ API Integration
-
-✅ Performance Optimization
-
-✅ Troubleshooting and Debugging
-
-✅ Responsive Design Implementation
-
-✅ Aws lambda
-
-✅ Swagger
-
-✅ OAuth2.O
-
-✅ CRM Integration (Salesforce || Odoo)
-
-✅ SendGrid
-
-✅ New Relic
-
-🔹 Experience Highlights:
-
-✔️ Developed and maintained multiple Magento-based e-commerce websites, ensuring high performance, security, and scalability.
-
-✔️ Customized Magento themes and modules to meet specific client requirements, resulting in enhanced user experiences and increased conversions.
-
-✔️ Integrated various third-party APIs and payment gateways to streamline the checkout process and improve overall functionality.
-
-✔️ Collaborated with cross-functional teams including designers, QA testers, and project managers to deliver projects within deadlines and budget constraints.
-
-✔️ Provided ongoing support and maintenance for Magento websites, including troubleshooting issues and implementing necessary updates and patches.
-
-✔️ Integrated GraphQL APIs with Magento backend systems to enable seamless communication between front-end and back-end components, enhancing overall system architecture.
+# 💫 About Me:
+🚀 Magento Developer | E-commerce Specialist | 2 Years of Experience 🛒<br><br>🔹 About Me:<br>Passionate and dedicated Magento Developer with 2 years of hands-on experience in crafting robust, scalable, and customized e-commerce solutions. Proficient in utilizing Magento's powerful features to create seamless online shopping experiences for clients across diverse industries. Committed to staying updated with the latest trends and best practices in e-commerce development to deliver cutting-edge solutions.<br><br>🔹 Skills:<br><br>✅ Magento Development<br><br>✅ E-commerce Website Development<br><br>✅ Custom Module Development<br><br>✅ Version Control (Git)<br><br>✅ PWA Development<br><br>✅ GraphQL Development<br><br>✅ Theme Customization<br><br>✅ Payment Gateway Integration<br><br>✅ API Integration<br><br>✅ Performance Optimization<br><br>✅ Troubleshooting and Debugging<br><br>✅ Responsive Design Implementation<br><br>✅ Aws lambda<br><br>✅ Swagger<br><br>✅ OAuth2.O<br><br>✅ CRM Integration (Salesforce || Odoo)<br><br>✅ SendGrid<br><br>✅ New Relic<br><br>🔹 Experience Highlights:<br><br>✔️ Developed and maintained multiple Magento-based e-commerce websites, ensuring high performance, security, and scalability.<br><br>✔️ Customized Magento themes and modules to meet specific client requirements, resulting in enhanced user experiences and increased conversions.<br><br>✔️ Integrated various third-party APIs and payment gateways to streamline the checkout process and improve overall functionality.<br><br>✔️ Collaborated with cross-functional teams including designers, QA testers, and project managers to deliver projects within deadlines and budget constraints.<br><br>✔️ Provided ongoing support and maintenance for Magento websites, including troubleshooting issues and implementing necessary updates and patches.<br><br>✔️ Integrated GraphQL APIs with Magento backend systems to enable seamless communication between front-end and back-end components, enhancing overall system architecture.<br><br><br>🔹 Education:<br>Bachelor's Degree in Computer Application<br><br>🔹 Let's Connect:<br>I'm always open to discussing new opportunities, collaborations, and networking with fellow professionals in the e-commerce and Magento development community. Feel free to reach out and connect!"# henilM" <br>
 
 
-🔹 Education:
-Bachelor's Degree in Computer Application
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mendapara.henil.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_h_e_n_i_l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henil-mendapara) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mendaparahenil2004) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mendaparahenil) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Mendapara-Henil) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21058700) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MendaparaH55149) 
 
-🔹 Let's Connect:
-I'm always open to discussing new opportunities, collaborations, and networking with fellow professionals in the e-commerce and Magento development community. Feel free to reach out and connect!"# henilM" 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white&color=%23231F20) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NEWRELIC](https://img.shields.io/badge/newrelic-1CE783.svg?style=for-the-badge&logo=newrelic&logoColor=white&color=%231CE783) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=henilmendapara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=henilmendapara&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=henilmendapara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=henilmendapara&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
